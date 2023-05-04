@@ -1,2 +1,2 @@
 # Test-Case
-Test Case Writting in Microsoft Excel 
+Test Case Writting using Microsoft Excel 
